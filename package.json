@@ -1,0 +1,19 @@
+{
+  "name": "bitbar-plugins",
+  "version": "1.0.0",
+  "description": "just ",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "bitbar"
+  ],
+  "author": "tqcenglish <tqcenglish@gmail.com> (tqcenglish.github.io)",
+  "license": "ISC",
+  "dependencies": {
+    "bitbar": "^0.3.0",
+    "jquery": "^3.2.1",
+    "jsdom": "^11.0.0"
+  }
+}
