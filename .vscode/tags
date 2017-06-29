@@ -1,0 +1,21 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+boldColor	../plugins_notuse/githubbar.py	/^boldColor = "bloack";$/;"	kind:variable	line:18
+brokenHeartEmoji	../plugins_notuse/githubbar.py	/^brokenHeartEmoji = ":broken_heart:";$/;"	kind:variable	line:25
+client	../plugins_notuse/githubbar.py	/^import http.client$/;"	kind:namespace	line:8
+compactUI	../plugins_notuse/githubbar.py	/^compactUI = True;$/;"	kind:variable	line:14
+connect	../plugins_notuse/githubbar.py	/^connect = http.client.HTTPSConnection('api.github.com')$/;"	kind:variable	line:27
+contributionGoal	../plugins_notuse/githubbar.py	/^contributionGoal = 100;$/;"	kind:variable	line:13
+contributionGoalTracking	../plugins_notuse/githubbar.py	/^contributionGoalTracking = True;$/;"	kind:variable	line:12
+githubbar.py	../plugins_notuse/githubbar.py	1;"	kind:file	line:1
+headers	../plugins_notuse/githubbar.py	/^headers = {'User-Agent': 'tqcenglish'}$/;"	kind:variable	line:15
+heartEmoji	../plugins_notuse/githubbar.py	/^heartEmoji = ":heart_decoration:",$/;"	kind:variable	line:24
+http	../plugins_notuse/githubbar.py	/^import http.client$/;"	kind:namespace	line:8
+json	../plugins_notuse/githubbar.py	/^import json$/;"	kind:namespace	line:9
+response	../plugins_notuse/githubbar.py	/^response = connect.getresponse()$/;"	kind:variable	line:29
+user	../plugins_notuse/githubbar.py	/^user = json.loads(response.read())$/;"	kind:variable	line:30
+username	../plugins_notuse/githubbar.py	/^username = "tqcenglish"$/;"	kind:variable	line:11
